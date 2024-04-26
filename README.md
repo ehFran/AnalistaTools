@@ -1,2 +1,3 @@
 # AnalistaTools
 Herramienta para análisis de datos.
+Applicación realizada con streamlit, permite descargar, scrapear y analizar páginas de productos como pccomponentes...
